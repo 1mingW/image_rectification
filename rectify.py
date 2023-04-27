@@ -19,7 +19,7 @@ nLinePairs = 2; # Select this may pairs of perpendicular lines
 # print(f"Two-stage (affine and metric) rectification using  {d} parallel line pairs {nLinePairs}");
 
 # Read input files
-imgPath = "block_3.png"
+imgPath = "color_block.png"
 # fileparts = os.path.splitext(imgPath);
 # if fileparts[1] == '':
 #     fileparts = (fileparts[0], '.png');
